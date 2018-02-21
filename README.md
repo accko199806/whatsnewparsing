@@ -31,6 +31,10 @@ WhatsNewParsing.getPackageName("Write Your App Package");
 String getWhatsNew = WhatsNewParsing.getWhatsNew();
 ```
 
+- The start of the sentence must be *'-'*
+#### example
+![start_of_the_sentence](https://github.com/accko199806/whatsnewparsing-android/blob/master/start_of_the_sentence.png)
+
 ## License
 ```
 Copyright 2018 acckolee
