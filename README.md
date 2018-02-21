@@ -1,5 +1,5 @@
 # whatsnewparsing-android
-![Screenshot](https://github.com/accko199806/whatsnewparsing-android/AppScreen.gif)
+![AppScreen](https://github.com/accko199806/whatsnewparsing-android/blob/master/AppScreen.gif)
 ###### An example of parsing [VR Fantasy](https://play.google.com/store/apps/details?id=com.Chibig.VRFantasy).
 
 After updating your app, you'll need to let users know *what's new*. This app is parsing the what's new of Google Play Store and display it as text.
