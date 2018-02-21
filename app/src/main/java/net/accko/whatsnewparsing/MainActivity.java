@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        WhatsNewParsing.getPackageName("com.Chibig.VRFantasy");
+        WhatsNewParsing.getPackageName("Write Your App Package");
         final String getWhatsNew = WhatsNewParsing.getWhatsNew();
 
         Button showDialog = findViewById(R.id.showDialog);
