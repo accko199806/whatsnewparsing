@@ -32,8 +32,8 @@ String getWhatsNew = WhatsNewParsing.getWhatsNew();
 ```
 
 - The start of the sentence must be *'-'*
-#### example
-![start_of_the_sentence](https://github.com/accko199806/whatsnewparsing-android/blob/master/start_of_the_sentence.png)
+#### example : 
+<img src="https://github.com/accko199806/whatsnewparsing-android/blob/master/start_of_the_sentence.png?raw=true" width="300">
 
 ## License
 ```
