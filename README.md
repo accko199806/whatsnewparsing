@@ -20,6 +20,12 @@ Edit `root/app/build.gradle` like below
 // jsoup HTML parser library @ https://jsoup.org/
 compile 'org.jsoup:jsoup:1.11.2'
 ```
+
+### AndroidManifest.xml
+```xml
+<uses-permission android:name="android.permission.INTERNET" />
+```
+
 ## How to use
 - Write the package name will be parsed.
 ```java
