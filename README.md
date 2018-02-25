@@ -10,7 +10,7 @@ this process follow 3-steps:
 
 2. Add parsed information to a String.
 
-3. alert *What's New*!
+3. Alert *What's New*!
 
 ## Setup
 This app uses the [jsoup library](https://jsoup.org) for parsing.
