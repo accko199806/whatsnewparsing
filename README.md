@@ -20,6 +20,12 @@ Edit `root/app/build.gradle` like below
 // jsoup HTML parser library @ https://jsoup.org/
 compile 'org.jsoup:jsoup:1.11.2'
 ```
+
+### AndroidManifest.xml
+```xml
+<uses-permission android:name="android.permission.INTERNET" />
+```
+
 ## How to use
 - Write the package name will be parsed.
 ```java
@@ -31,7 +37,7 @@ WhatsNewParsing.getPackageName("Write Your App Package");
 String getWhatsNew = WhatsNewParsing.getWhatsNew();
 ```
 
-- The start of the sentence must be *'-'*
+- The start of the sentence must be *'-'* (Google Play)
 #### example : 
 <img src="https://github.com/accko199806/whatsnewparsing-android/blob/master/start_of_the_sentence.png?raw=true" width="400">
 
